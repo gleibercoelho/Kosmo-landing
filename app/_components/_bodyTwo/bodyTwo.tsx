@@ -5,6 +5,7 @@
 
 import { FooterBox } from './style';
 import suit from "../../../public/0b7f1ee5cc9abadfc16252d5bd050e34.jpg"
+import Image from 'next/image';
 
 const BodyTwo = () => {
 
