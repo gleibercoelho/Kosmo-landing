@@ -3,7 +3,7 @@
 
 
 import { HeaderBox } from './style';
-import { Link } from 'react-router-dom';
+
 
 const Footer = () => {
 
