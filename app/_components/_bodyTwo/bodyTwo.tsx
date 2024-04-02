@@ -19,7 +19,7 @@ const BodyTwo = () => {
                 minima consequuntur sapiente libero!
             </p>
             <div className='img'>
-            <img src="/0b7f1ee5cc9abadfc16252d5bd050e34.jpg" alt="" layout="fill"
+            <Image src="/0b7f1ee5cc9abadfc16252d5bd050e34.jpg"  alt=""   layout="fill"
                     objectFit="fill" />
             </div>
             <h1>LOREM IPSUM</h1>
