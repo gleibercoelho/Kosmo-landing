@@ -1,9 +1,11 @@
-import Service from "./_components/_body/bodyOne";
-import BodyThree from "./_components/_bodyThree/bodyThree";
-import BodyTwo from "./_components/_bodyTwo/bodyTwo";
-import Footer from "./_components/_footer/footer";
-import Header from "./_components/_header/header";
-import HeroCard from "./_components/_hero card/heroCard";
+"use client"
+
+import Service from "../components/_body/bodyOne";
+import BodyThree from "../components/_bodyThree/bodyThree";
+import BodyTwo from "../components/_bodyTwo/bodyTwo";
+import Footer from "../components/_footer/footer";
+import Header from "../components/_header/header";
+import HeroCard from "../components/_hero card/heroCard";
 
 export default function Home() {
   return (
